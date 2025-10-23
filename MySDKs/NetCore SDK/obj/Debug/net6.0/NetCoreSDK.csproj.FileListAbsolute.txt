@@ -1,0 +1,15 @@
+/Users/anurag/learnings/myGithub/magicgate/MySDKs/NetCore SDK/bin/Debug/net6.0/ExampleApp
+/Users/anurag/learnings/myGithub/magicgate/MySDKs/NetCore SDK/bin/Debug/net6.0/ExampleApp.deps.json
+/Users/anurag/learnings/myGithub/magicgate/MySDKs/NetCore SDK/bin/Debug/net6.0/ExampleApp.runtimeconfig.json
+/Users/anurag/learnings/myGithub/magicgate/MySDKs/NetCore SDK/bin/Debug/net6.0/ExampleApp.dll
+/Users/anurag/learnings/myGithub/magicgate/MySDKs/NetCore SDK/bin/Debug/net6.0/ExampleApp.pdb
+/Users/anurag/learnings/myGithub/magicgate/MySDKs/NetCore SDK/obj/Debug/net6.0/NetCoreSDK.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anurag/learnings/myGithub/magicgate/MySDKs/NetCore SDK/obj/Debug/net6.0/NetCoreSDK.AssemblyInfoInputs.cache
+/Users/anurag/learnings/myGithub/magicgate/MySDKs/NetCore SDK/obj/Debug/net6.0/NetCoreSDK.AssemblyInfo.cs
+/Users/anurag/learnings/myGithub/magicgate/MySDKs/NetCore SDK/obj/Debug/net6.0/NetCoreSDK.csproj.CoreCompileInputs.cache
+/Users/anurag/learnings/myGithub/magicgate/MySDKs/NetCore SDK/obj/Debug/net6.0/NetCoreSDK.sourcelink.json
+/Users/anurag/learnings/myGithub/magicgate/MySDKs/NetCore SDK/obj/Debug/net6.0/ExampleApp.dll
+/Users/anurag/learnings/myGithub/magicgate/MySDKs/NetCore SDK/obj/Debug/net6.0/refint/ExampleApp.dll
+/Users/anurag/learnings/myGithub/magicgate/MySDKs/NetCore SDK/obj/Debug/net6.0/ExampleApp.pdb
+/Users/anurag/learnings/myGithub/magicgate/MySDKs/NetCore SDK/obj/Debug/net6.0/NetCoreSDK.genruntimeconfig.cache
+/Users/anurag/learnings/myGithub/magicgate/MySDKs/NetCore SDK/obj/Debug/net6.0/ref/ExampleApp.dll
